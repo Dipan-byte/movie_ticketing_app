@@ -14,7 +14,7 @@ class MyApp  extends StatelessWidget{
     return Scaffold(
       appBar: AppBar(
         centerTitle: true ,
-        title: Text('hey nerds'),
+        title: Text('hey lawras'),
       ),
       body: Container(
         child: Center(child: Text('ohho')),
